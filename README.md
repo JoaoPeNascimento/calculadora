@@ -18,21 +18,6 @@ Botão de reset para limpar os cálculos.
 
 Suporte a números decimais.
 
-📂 Estrutura do Projeto
-
-📂 calculator-app
-│── 📂 src
-│   ├── 📂 components
-│   │   ├── Button.js
-│   │   ├── Display.js
-│   ├── 📂 styles
-│   │   ├── Calculator.css
-│   ├── Calculator.js
-│   ├── App.js
-│   ├── index.js
-│── package.json
-│── README.md
-
 🔧 Instalação e Execução
 
 Clone este repositório:
@@ -60,7 +45,3 @@ Utilize os operadores matemáticos para realizar cálculos.
 Clique em = para obter o resultado.
 
 Clique em AC para limpar o visor.
-
-📜 Licença
-
-Este projeto está licenciado sob a MIT License.
